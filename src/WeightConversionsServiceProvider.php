@@ -2,9 +2,9 @@
 
 namespace Furqat\WeightConversions;
 
+use Furqat\WeightConversions\Commands\WeightConversionsCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Furqat\WeightConversions\Commands\WeightConversionsCommand;
 
 class WeightConversionsServiceProvider extends PackageServiceProvider
 {

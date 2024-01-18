@@ -2,9 +2,9 @@
 
 namespace Furqat\WeightConversions\Tests;
 
+use Furqat\WeightConversions\WeightConversionsServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Furqat\WeightConversions\WeightConversionsServiceProvider;
 
 class TestCase extends Orchestra
 {
